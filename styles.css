@@ -1,4 +1,43 @@
 img {
     width: 300px;
     height: 200px;
+    align-content: center;
+    margin: auto;
+    display: block;
+    margin-bottom:20px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-left: 27px;
+}
+
+#card {
+    border: 2px solid rgba(192, 192, 192, 1);
+    box-shadow: 8px 8px 5px 0px rgba(192, 192, 192, 0.51);
+    max-width: 350px;
+}
+
+#info {
+    width: 300px;
+    display: block;
+    margin: auto;
+    border: 2px solid rgba(192, 192, 192, 1);
+    padding: 10px;
+    width: 276px;
+    margin-bottom: 25px
+}
+
+span {
+    font-weight: bold
+}
+
+#facts {
+    font-style: italic
+}
+
+ul {
+    list-style: none;
+    padding-left: 0
 }
