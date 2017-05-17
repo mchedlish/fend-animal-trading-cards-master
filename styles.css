@@ -13,13 +13,13 @@ h3 {
     margin-left: 27px;
 }
 
-#card {
+.card {
     border: 2px solid rgba(192, 192, 192, 1);
     box-shadow: 8px 8px 5px 0px rgba(192, 192, 192, 0.51);
     max-width: 350px;
 }
 
-#info {
+.info {
     width: 300px;
     display: block;
     margin: auto;
@@ -33,7 +33,7 @@ span {
     font-weight: bold
 }
 
-#facts {
+.facts {
     font-style: italic
 }
 
